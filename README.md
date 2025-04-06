@@ -13,6 +13,8 @@
 * Where I played the role of Business Intelligence Analyst for AdventureWorks Cycles, a fictional manufacturing company.
 * My role was to transform raw data into professional-quality reports and dashboards to track KPIs
 * compare regional performance, analyze product-level trends, and identify high-value customers.
+![image](https://github.com/user-attachments/assets/3b13818c-43a2-47d0-8e4e-86e6bced3e52)
+
 
 # Project-3_Tata_Group_Data_Visualization_Internship (https://github.com/Shivam-Kumarr/Project-3_Tata_Group_Data_Visualization_Internship.git)
 
@@ -35,9 +37,14 @@
    focusing on gender-related KPIs, and identified root causes for gender
    balance issues at the executive management level, highlighting a commitment
    to data-driven decision-making.
+![image](https://github.com/user-attachments/assets/9e21c83f-61af-4a1e-854d-2ddacf1d93ed)
 
-# Project-5_Green_Beverages_Sales_Data_Analysis_and-_Dashboard_creation (https://github.com/Shivam-Kumarr/Project-5_Green_Beverages_Sales_Data_Analysis_and-_Dashboard_creation.git)
-* Developed an interactive financial dashboard for Green Beverages in Power BI, tracking Gross-to-Net (G2N) revenue, YoY growth, and regional performance.
-* Built complex DAX measures for Net Revenue (adjusting resizing, tax incentives, and discounts) and YoY comparisons using current-year denominator logic per business requirements.
-* Solved data model challenges by creating a custom date table, fixing date formats, and optimizing relationships to ensure accurate time intelligence calculations.
-* Designed user-friendly visualizations including KPI cards, hierarchically sorted month/year views, and conditional formatting for growth trends.
+# Project-5_Green_Beverages_Financial_Report_And_Dashboard_creation_using_Power_BI (https://github.com/Shivam-Kumarr/Project-5_Green_Beverages_Sales_Data_Analysis_and-_Dashboard_creation.git)
+* Developed a comprehensive Power BI dashboard for Green Beverages tracking $15.5B revenue with KPIs for leaves needed, price, and volume metrics
+* Created advanced DAX measures for accurate YoY revenue comparisons and Gross-to-Net (G2N) calculations per kg
+* Designed interactive visualizations showing monthly/quarterly trends and regional performance (including 34.79% tea category share)
+* Solved complex data modeling issues by building a custom date table and fixing calculation errors in time intelligence
+* Automated financial reporting processes, reducing manual work while improving accuracy in tracking discounts and tax incentives
+![image](https://github.com/user-attachments/assets/61619b6d-3f71-4f8e-a1c8-afe7fa560cae)
+
+

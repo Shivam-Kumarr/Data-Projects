@@ -8,7 +8,7 @@
 ![image](https://github.com/user-attachments/assets/1b6819ad-5a67-4466-b836-17e7372052ff)
 
 
-# Project-2: Maven_Market_Power_BI_Dasboard (https://github.com/Shivam-Kumarr/Project-2_Maven_Market_Power_BI_Dasboard.git)
+# Project-2: Maven_Market_Power_BI_Dashboard (https://github.com/Shivam-Kumarr/Project-2_Maven_Market_Power_BI_Dasboard.git)
 * This project is a part of on Udemy Course "Microsoft Power BI Desktop for Business Intelligence"
 * Where I played the role of Business Intelligence Analyst for AdventureWorks Cycles, a fictional manufacturing company.
 * My role was to transform raw data into professional-quality reports and dashboards to track KPIs
